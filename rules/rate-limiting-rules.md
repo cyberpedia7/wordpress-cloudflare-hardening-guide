@@ -45,6 +45,4 @@ When rate exceeds...: 18 requests in 1 minute
 
 Then...: Block for 1 hour
 
-<p align="center" style="color:#1b313a; font-size: 1.1em;">
-  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
-</p>
+© 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.

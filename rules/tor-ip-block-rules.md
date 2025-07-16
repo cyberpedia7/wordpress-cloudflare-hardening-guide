@@ -85,6 +85,4 @@ IP List: tor-ip-block-lists/tor-block-ips-p5.txt
 
 Then take action...: Block
 
-<p align="center" style="color:#1b313a; font-size: 1.1em;">
-  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
-</p>
+© 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.

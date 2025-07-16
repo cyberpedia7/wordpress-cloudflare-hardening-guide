@@ -37,6 +37,4 @@ Step 2: Enable the Cloudflare Managed Ruleset. This ruleset is designed to block
 
 Step 3: Enable the OWASP ModSecurity Core Rule Set. This ruleset provides protection against the most common types of attacks, as defined by the Open Web Application Security Project (OWASP).
 
-<p align="center" style="color:#1b313a; font-size: 1.1em;">
-  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
-</p>
+© 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.

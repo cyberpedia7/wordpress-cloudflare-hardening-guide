@@ -66,6 +66,4 @@ This rule blocks requests from user agents associated with known vulnerability s
     ```
 * **Then take action...:** Block
 
-<p align="center" style="color:#1b313a; font-size: 1.1em;">
-  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
-</p>
+© 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
