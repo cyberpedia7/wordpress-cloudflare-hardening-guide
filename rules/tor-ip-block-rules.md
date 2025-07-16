@@ -19,11 +19,11 @@ Welcome to the official [**Cyberpedia**](https://cyberpedia.site/) guide for har
 ---
 
 ## <span style="color:#47bbc9">TOR IP Block Lists</span>
-- [tor-block-ips-p1.txt](tor-ip-block-lists/tor-block-ips-p1.txt)
-- [tor-block-ips-p2.txt](tor-ip-block-lists/tor-block-ips-p2.txt)
-- [tor-block-ips-p3.txt](tor-ip-block-lists/tor-block-ips-p3.txt)
-- [tor-block-ips-p4.txt](tor-ip-block-lists/tor-block-ips-p4.txt)
-- [tor-block-ips-p5.txt](tor-ip-block-lists/tor-block-ips-p5.txt)
+- [tor-block-ips-p1.md](tor-ip-block-lists/tor-block-ips-p1.md)
+- [tor-block-ips-p2.md](tor-ip-block-lists/tor-block-ips-p2.md)
+- [tor-block-ips-p3.md](tor-ip-block-lists/tor-block-ips-p3.md)
+- [tor-block-ips-p4.md](tor-ip-block-lists/tor-block-ips-p4.md)
+- [tor-block-ips-p5.md](tor-ip-block-lists/tor-block-ips-p5.md)
 
 ---
 
