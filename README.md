@@ -21,7 +21,7 @@ This guide is designed for WordPress administrators, developers, and security en
 ---
 
 <h2 align="center">🚀 Getting Started</h2>
-To get started, simply follow the guides in the **rules** directory. We recommend implementing them in the following order:
+To get started, simply follow the guides in the [rules](rules/) directory. We recommend implementing them in the following order:
 
 - [Foundational Settings](rules/foundational-settings.md)
 - [Custom Firewall Rules](rules/custom-firewall-rules.md)
