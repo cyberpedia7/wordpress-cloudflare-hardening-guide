@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center" style="background: linear-gradient(90deg, #1b313a 0%, #47bbc9 100%); padding: 30px 0; border-radius: 12px;">
-  <img src="CYBERPEDIA Logo.png" alt="CYBERPEDIA Logo" width="180"/>
+  <img src="CYBERPEDIA Logo.png" alt="Cyberpedia Logo" width="180"/>
 </p>
 
 <h1 align="center" style="color:#47bbc9; font-weight: bold;">Securing WordPress with Cloudflare WAF<br/>A [Cyberpedia](https://cyberpedia.site/) Guide</h1>
@@ -48,5 +48,5 @@ If you have questions or need assistance, please open an issue in this repositor
 ---
 
 <p align="center" style="color:#1b313a; font-size: 1.1em;">
-  © 2025 <span style="color:#47bbc9; font-weight:bold;"><a href="https://cyberpedia.site/" style="color:#47bbc9; text-decoration:none;">Cyberpedia</a></span>. All Rights Reserved.
+  © 2025 <span style="color:#47bbc9; font-weight:bold;">[Cyberpedia](https://cyberpedia.site/)</span>. All Rights Reserved.
 </p>
