@@ -3,6 +3,8 @@
   <b style="color:#47bbc9; font-size:1.6em;">Custom Firewall Rules</b>
 </p>
 
+Welcome to the official [**Cyberpedia**](https://cyberpedia.site/) guide for hardening WordPress websites using **Cloudflare's Web Application Firewall (WAF)**.  
+
 <p align="center">
   <a href="../README.md" style="background:#47bbc9; color:#fff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold;">← Back to README</a>
 </p>
@@ -63,3 +65,7 @@ This rule blocks requests from user agents associated with known vulnerability s
     (lower(http.user_agent) contains "wpscan") or (lower(http.user_agent) contains "acunetix") or (lower(http.user_agent) contains "nikto") or (lower(http.user_agent) contains "sqlmap") or (lower(http.user_agent) contains "fimap") or (lower(http.user_agent) contains "fuzz faster") or (lower(http.user_agent) contains "netsparker") or (lower(http.user_agent) contains "jaeles") or (lower(http.user_agent) contains "arachni") or (lower(http.user_agent) contains "nmap") or (lower(http.user_agent) contains "nessus") or (lower(http.user_agent) contains "qualys") or (lower(http.user_agent) contains "openvas") or (lower(http.user_agent) contains "owasp zap") or (lower(http.user_agent) contains "dirbuster") or (lower(http.user_agent) contains "dirb") or (lower(http.user_agent) contains "gobuster") or (lower(http.user_agent) contains "xray") or (lower(http.user_agent) contains "nuclei") or (lower(http.user_agent) contains "metasploit") or (lower(http.user_agent) contains "paros") or (lower(http.user_agent) contains "ratproxy") or (lower(http.user_agent) contains "burpsuite") or (lower(http.user_agent) contains "hydra") or (lower(http.user_agent) contains "skipfish") or (lower(http.user_agent) contains "phpshell") or (lower(http.user_agent) contains "scanner") or (lower(http.user_agent) contains "masscan") or (lower(http.user_agent) contains "scan") or (lower(http.user_agent) contains "zgrab") or (lower(http.user_agent) contains "immuniweb") or (lower(http.user_agent) contains "whatweb") or (lower(http.user_agent) contains "Penthouse Critical Path") or (http.user_agent eq "") or (lower(http.user_agent) contains "astra web security scanner") or (lower(http.user_agent) contains "python" and not (http.host eq "workflow.cyberpedia.site"))
     ```
 * **Then take action...:** Block
+
+<p align="center" style="color:#1b313a; font-size: 1.1em;">
+  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
+</p>

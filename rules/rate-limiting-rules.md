@@ -3,6 +3,8 @@
   <b style="color:#47bbc9; font-size:1.6em;">Rate Limiting Rules</b>
 </p>
 
+Welcome to the official [**Cyberpedia**](https://cyberpedia.site/) guide for hardening WordPress websites using **Cloudflare's Web Application Firewall (WAF)**.  
+
 <p align="center">
   <a href="../README.md" style="background:#47bbc9; color:#fff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold;">← Back to README</a>
 </p>
@@ -42,3 +44,7 @@ If URI path...: equals /wp-admin/admin-ajax.php
 When rate exceeds...: 18 requests in 1 minute
 
 Then...: Block for 1 hour
+
+<p align="center" style="color:#1b313a; font-size: 1.1em;">
+  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
+</p>

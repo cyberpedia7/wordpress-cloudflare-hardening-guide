@@ -3,6 +3,8 @@
   <b style="color:#47bbc9; font-size:1.6em;">Foundational Settings</b>
 </p>
 
+Welcome to the official [**Cyberpedia**](https://cyberpedia.site/) guide for hardening WordPress websites using **Cloudflare's Web Application Firewall (WAF)**.  
+
 <p align="center">
   <a href="../README.md" style="background:#47bbc9; color:#fff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold;">← Back to README</a>
 </p>
@@ -34,3 +36,7 @@ Step 1: Go to the Security section, select WAF, and then click on Managed rules.
 Step 2: Enable the Cloudflare Managed Ruleset. This ruleset is designed to block malicious traffic and is regularly updated by Cloudflare's team of security experts.
 
 Step 3: Enable the OWASP ModSecurity Core Rule Set. This ruleset provides protection against the most common types of attacks, as defined by the Open Web Application Security Project (OWASP).
+
+<p align="center" style="color:#1b313a; font-size: 1.1em;">
+  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
+</p>
