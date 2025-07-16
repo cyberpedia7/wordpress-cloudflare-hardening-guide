@@ -1,0 +1,18 @@
+Part 1: Foundational Cloudflare Settings
+Before diving into custom rules, it's crucial to establish a secure baseline. These initial settings form the foundation of your website's defense.
+
+1.1. Set SSL/TLS Encryption Mode
+A secure connection is the first line of defense. The SSL/TLS encryption mode ensures that all data transferred between your website and its visitors is encrypted and secure.
+
+Step 1: Log in to your Cloudflare account and navigate to the SSL/TLS section, then click on the Overview tab.
+
+Step 2: Set the encryption mode to Full (Strict). This provides the highest level of security by encrypting traffic from the visitor to Cloudflare and from Cloudflare to your server.
+
+1.2. Enable Managed Rulesets
+Cloudflare's managed rulesets are collections of pre-configured rules that protect your site from a wide range of common attacks.
+
+Step 1: Go to the Security section, select WAF, and then click on Managed rules.
+
+Step 2: Enable the Cloudflare Managed Ruleset. This ruleset is designed to block malicious traffic and is regularly updated by Cloudflare's team of security experts.
+
+Step 3: Enable the OWASP ModSecurity Core Rule Set. This ruleset provides protection against the most common types of attacks, as defined by the Open Web Application Security Project (OWASP).
