@@ -46,6 +46,4 @@ If you have questions or need assistance, please open an issue in this repositor
 
 ---
 
-<p align="center" style="color:#1b313a; font-size: 1.1em;">
-  © 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
-</p>
+© 2025 [Cyberpedia](https://cyberpedia.site/). All Rights Reserved.
