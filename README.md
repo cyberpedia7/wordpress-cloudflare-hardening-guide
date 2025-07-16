@@ -15,13 +15,10 @@ Enhance overall security: Implement a layered defense strategy for your WordPres
 🚀 Getting Started
 To get started, simply follow the guides in the rules directory. We recommend implementing them in the following order:
 
-Foundational Settings
-
-Custom Firewall Rules
-
-Rate Limiting Rules
-
-TOR IP Blocking Rules
+- [Foundational Settings](rules/foundational-settings.md)
+- [Custom Firewall Rules](rules/custom-firewall-rules.md)
+- [Rate Limiting Rules](rules/rate-limiting-rules.md)
+- [TOR IP Blocking Rules](rules/tor-ip-block-rules.md)
 
 🙌 Contributing
 We welcome contributions from the community! If you have suggestions for improvements, new rules, or updates, please read our Contributing Guidelines to get started.
