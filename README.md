@@ -3,10 +3,10 @@
   <img src="CYBERPEDIA Logo.png" alt="CYBERPEDIA Logo" width="180"/>
 </p>
 
-<h1 align="center" style="color:#47bbc9; font-weight: bold;">Securing WordPress with Cloudflare WAF<br/>A Cyberpedia Guide</h1>
+<h1 align="center" style="color:#47bbc9; font-weight: bold;">Securing WordPress with Cloudflare WAF<br/>A [Cyberpedia](https://cyberpedia.site/) Guide</h1>
 
 <p align="center" style="color:#1b313a; font-size: 1.2em;">
-  Welcome to the official <b>Cyberpedia</b> guide for hardening WordPress websites using <b>Cloudflare's Web Application Firewall (WAF)</b>.<br/>
+  Welcome to the official <b>[Cyberpedia](https://cyberpedia.site/)</b> guide for hardening WordPress websites using <b>Cloudflare's Web Application Firewall (WAF)</b>.<br/>
   <i>Empowering you to protect your digital assets with clear, actionable steps.</i>
 </p>
 
@@ -48,5 +48,5 @@ If you have questions or need assistance, please open an issue in this repositor
 ---
 
 <p align="center" style="color:#1b313a; font-size: 1.1em;">
-  © 2025 <span style="color:#47bbc9; font-weight:bold;">Cyberpedia</span>. All Rights Reserved.
+  © 2025 <span style="color:#47bbc9; font-weight:bold;"><a href="https://cyberpedia.site/" style="color:#47bbc9; text-decoration:none;">Cyberpedia</a></span>. All Rights Reserved.
 </p>

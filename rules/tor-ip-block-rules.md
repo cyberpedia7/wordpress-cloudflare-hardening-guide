@@ -1,3 +1,30 @@
+<!-- Gradient Banner -->
+<p align="center" style="background: linear-gradient(90deg, #1b313a 0%, #47bbc9 100%); padding: 18px 0; border-radius: 10px;">
+  <b style="color:#47bbc9; font-size:1.6em;">TOR IP Blocking Rules</b>
+</p>
+
+<p align="center">
+  <a href="../README.md" style="background:#47bbc9; color:#fff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold;">← Back to README</a>
+</p>
+
+---
+
+## <span style="color:#47bbc9">Related Guides</span>
+- [Foundational Settings](foundational-settings.md)
+- [Custom Firewall Rules](custom-firewall-rules.md)
+- [Rate Limiting Rules](rate-limiting-rules.md)
+
+---
+
+## <span style="color:#47bbc9">TOR IP Block Lists</span>
+- [tor-block-ips-p1.txt](tor-ip-block-lists/tor-block-ips-p1.txt)
+- [tor-block-ips-p2.txt](tor-ip-block-lists/tor-block-ips-p2.txt)
+- [tor-block-ips-p3.txt](tor-ip-block-lists/tor-block-ips-p3.txt)
+- [tor-block-ips-p4.txt](tor-ip-block-lists/tor-block-ips-p4.txt)
+- [tor-block-ips-p5.txt](tor-ip-block-lists/tor-block-ips-p5.txt)
+
+---
+
 Part 4: Block TOR Network IPs
 The TOR network can be used to hide the origin of malicious traffic. This rule blocks IP addresses known to be part of the TOR network. Due to expression length limitations in Cloudflare, you will need to create five separate rules.
 

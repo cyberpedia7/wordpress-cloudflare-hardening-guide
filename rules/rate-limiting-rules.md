@@ -1,3 +1,21 @@
+<!-- Gradient Banner -->
+<p align="center" style="background: linear-gradient(90deg, #1b313a 0%, #47bbc9 100%); padding: 18px 0; border-radius: 10px;">
+  <b style="color:#47bbc9; font-size:1.6em;">Rate Limiting Rules</b>
+</p>
+
+<p align="center">
+  <a href="../README.md" style="background:#47bbc9; color:#fff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold;">← Back to README</a>
+</p>
+
+---
+
+## <span style="color:#47bbc9">Related Guides</span>
+- [Foundational Settings](foundational-settings.md)
+- [Custom Firewall Rules](custom-firewall-rules.md)
+- [TOR IP Blocking Rules](tor-ip-block-rules.md)
+
+---
+
 Part 3: Rate Limiting Rules
 Rate limiting helps protect your site from brute-force attacks and denial-of-service attempts by limiting the number of requests a single IP address can make in a given period.
 

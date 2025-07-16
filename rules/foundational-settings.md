@@ -1,3 +1,21 @@
+<!-- Gradient Banner -->
+<p align="center" style="background: linear-gradient(90deg, #1b313a 0%, #47bbc9 100%); padding: 18px 0; border-radius: 10px;">
+  <b style="color:#47bbc9; font-size:1.6em;">Foundational Settings</b>
+</p>
+
+<p align="center">
+  <a href="../README.md" style="background:#47bbc9; color:#fff; padding:8px 18px; border-radius:6px; text-decoration:none; font-weight:bold;">← Back to README</a>
+</p>
+
+---
+
+## <span style="color:#47bbc9">Related Guides</span>
+- [Custom Firewall Rules](custom-firewall-rules.md)
+- [Rate Limiting Rules](rate-limiting-rules.md)
+- [TOR IP Blocking Rules](tor-ip-block-rules.md)
+
+---
+
 Part 1: Foundational Cloudflare Settings
 Before diving into custom rules, it's crucial to establish a secure baseline. These initial settings form the foundation of your website's defense.
 
