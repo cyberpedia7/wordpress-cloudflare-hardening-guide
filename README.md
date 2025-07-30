@@ -1,8 +1,4 @@
 <!-- Gradient Banner -->
-<p align="center" style="background: linear-gradient(90deg, #1b313a 0%, #47bbc9 100%); padding: 30px 0; border-radius: 12px;">
-  <img src="CYBERPEDIA Logo.png" alt="Cyberpedia Logo" width="180"/>
-</p>
-
 # Securing WordPress with Cloudflare WAF
 
 Welcome to the official [**Cyberpedia**](https://cyberpedia.site/) guide for hardening WordPress websites using **Cloudflare's Web Application Firewall (WAF)**.  
